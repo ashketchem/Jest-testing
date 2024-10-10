@@ -1,0 +1,17 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "So in this code I wrote code for a few functions and tested it with jest",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.7",
+    "@babel/preset-env": "^7.25.7",
+    "babel-jest": "^29.7.0"
+  }
+}
